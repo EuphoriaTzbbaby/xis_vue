@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>小红书评论爬取</title>
+</head>
+
+<body>
+    <h1>小红书评论爬虫</h1>
+
+    <!-- 用户输入笔记链接 -->
+    <form method="POST" action="/">
+        <label for="note_url">请输入小红书笔记链接：</label>
+        <input type="text" id="note_url" name="note_url" required>
+        <button type="submit">获取评论</button>
+    </form>
+
+    {% if note_url %}
+    <h3>当前笔记链接: {{ note_url }}</h3>
+
+    <div>
+        {% if comments %}
+        <h4>评论列表：</h4>
+        <ul>
+            {% for comment in comments %}
+            <li>
+                <strong>{{ comment.nickname }}</strong> (性别: {{ comment.gender }}，地址: {{ comment.ip_location }}) 发表了评论:
+                <p>{{ comment.content }}</p>
+                <small>发布时间: {{ comment.time }}</small><br>
+                <small>点赞数: {{ comment.like_count }}</small>
+            </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p>暂无评论</p>
+        {% endif %}
+    </div>
+    {% endif %}
+
+</body>
+
+</html>

@@ -126,7 +126,7 @@ if __name__ == '__main__':
     data_spider.spider_user_all_note(user_url, cookies_str, base_path, 'all')
 
     # 3
-    query = "榴莲"
+    query = "小猫"
     query_num = 10
     sort = "general"
     note_type = 0
