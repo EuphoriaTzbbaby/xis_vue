@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "adebe4276a3d30a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c2a75fdf171c409",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e23386afcffd69a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "全国大学生·数学竞赛/exercise/4 th.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23c347e870db8676",
+    "type": "split",
+    "children": [
+      {
+        "id": "446bd90eb6e15b79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95efc74c046aee36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32465dc5b70c50e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "1.1习题8",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ebc9c99e7535a4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edfaa2bc50f4b1fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a082b30196978bd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a277dbf1a5ca703",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "全国大学生·数学竞赛/exercise/4 th.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdf441d2fd4a629b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "全国大学生·数学竞赛/exercise/4 th.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "546f27a001b11ef0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "544ce3b225680a62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "全国大学生·数学竞赛/exercise/4 th.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e23386afcffd69a2",
+  "lastOpenFiles": [
+    "全国大学生·数学竞赛/category/limit/导数构造.md",
+    "全国大学生·数学竞赛/exercise/4 th.md",
+    "1.2习题13.png",
+    "全国大学生·数学竞赛/category/limit/定积分.md",
+    "1.2例题41.png",
+    "1.2例题40.png",
+    "全国大学生·数学竞赛/category/manager/gg.md",
+    "全国大学生·数学竞赛/category/mistake.md",
+    "全国大学生·数学竞赛/category/manager",
+    "mge.jpg",
+    "全国大学生·数学竞赛/exercise/second day.md",
+    "全国大学生·数学竞赛/exercise/first day.md",
+    "全国大学生·数学竞赛/category/constructions/不等式.md",
+    "全国大学生·数学竞赛/category/constructions/三角函数.md",
+    "全国大学生·数学竞赛/category/cycle & summetry/easy.md",
+    "全国大学生·数学竞赛/category/constructions/组合数.md",
+    "全国大学生·数学竞赛/category/limit/变量代换.md",
+    "全国大学生·数学竞赛/category/limit/拉格朗日.md",
+    "1.2例题8.png",
+    "1.2例题4 1.png",
+    "1.2例题4.png",
+    "1.2例题2.jpg",
+    "0da8109b4652dd0002be2797e4a6528d.png",
+    "全国大学生·数学竞赛/category/constructions",
+    "1.1习题8.png",
+    "全国大学生·数学竞赛/category/limit",
+    "全国大学生·数学竞赛/category/未命名.md",
+    "全国大学生·数学竞赛/category/cycle & summetry",
+    "全国大学生·数学竞赛/summary",
+    "全国大学生·数学竞赛/category",
+    "全国大学生·数学竞赛/exercise",
+    "2024-10-09.md",
+    "欢迎.md",
+    "全国大学生·数学竞赛"
+  ]
+}

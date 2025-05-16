@@ -1,0 +1,1 @@
+docker run -d --name nginx -p 4213:4213 -p 9999:9999 -v /var/www/html/springbootAndVue/html:/usr/share/nginx/html -v /var/www/html/springbootAndVue/nginx.conf:/etc/nginx/conf.d/default.conf --network blog nginx

@@ -1,0 +1,1 @@
+[2127 st表 + 分组 + 二分 + dfs序列](https://ac.nowcoder.com/acm/contest/95016/F)

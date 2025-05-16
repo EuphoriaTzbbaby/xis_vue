@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "fe97f04b088fe2f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "602c4b9385242a5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58040a8a7adcaa5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件工程课设/测试方案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "测试方案"
+            }
+          },
+          {
+            "id": "da9d0555f8f1cbcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件工程课设/问题定义.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问题定义"
+            }
+          },
+          {
+            "id": "dfbdd06b05207076",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "d4ac7b7bf24efc19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaEE课设/数据库设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库设计"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71e852819938f6d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bad44ffae661bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9e15d88a5918aef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1fdbcd9e4282aa06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "2100",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18fac5195946791c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e41c401fb0d2871a",
+    "type": "split",
+    "children": [
+      {
+        "id": "199cf48f8379d70b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a3771e66afbc80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "competition/codeforces/构造 打表/1200.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1200"
+            }
+          },
+          {
+            "id": "c51dfb544d70be72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "competition/codeforces/构造 打表/1200.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1200"
+            }
+          },
+          {
+            "id": "d4a0103427c1dcd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a4e24f71f75ed940",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "competition/codeforces/构造 打表/1200.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1200"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4ac7b7bf24efc19",
+  "lastOpenFiles": [
+    "JavaEE课设/详细设计.md",
+    "JavaEE课设/数据库设计.md",
+    "JavaEE课设/小红书评论分析和管理系统 - 正式版文档.md",
+    "graphviz (3).png",
+    "Pasted image 20250428090631.png",
+    "Pasted image 20250428085833.png",
+    "graphviz.png",
+    "Pasted image 20250512083901.png",
+    "JavaEE课设/概要设计.md",
+    "软件工程课设/后端接口/video videoAlbum 接口.md",
+    "软件工程课设/后端接口/comment.md",
+    "软件工程课设/后端接口/Reply.md",
+    "Pasted image 20250430085045.png",
+    "Pasted image 20250430085013.png",
+    "Pasted image 20250430084929.png",
+    "Pasted image 20250430084857.png",
+    "Pasted image 20250430084818.png",
+    "软件工程课设/后端接口/classes接口.md",
+    "软件工程课设/后端接口/users接口.md",
+    "开发日常/mybatis/开启驼峰映射.md",
+    "开发日常/mybatis",
+    "小红书.md",
+    "JavaEE课设/uml.md",
+    "JavaEE课设",
+    "软件工程课设/后端接口/vue跨域设置.md",
+    "软件工程课设/后端接口",
+    "Untitled 1.canvas",
+    "软件工程课设/需求分析.md",
+    "软件工程课设/系统设计方案.md",
+    "开发日常/docker/创建 nginx容器.md",
+    "开发日常/docker",
+    "开发日常",
+    "competition/codeforces/交互/ggg.md",
+    "软件工程课设/可行性分析.md",
+    "软件工程课设/测试方案.md",
+    "软件工程课设/问题定义.md",
+    "competition/codeforces/数论/math.md",
+    "软件工程课设",
+    "competition/codeforces/数论/中位数贪心/ggg.md",
+    "competition/codeforces/数论/枚举因子/medium.md",
+    "competition/codeforces/字符串/KMP.md",
+    "competition/codeforces/板子/zfc.md",
+    "toMeetMoreOutstandingPeople",
+    "新建文件夹",
+    "Untitled.canvas",
+    "competition/codeforces/图论/拓扑排序",
+    "competition/codeforces/DP/状压dp"
+  ]
+}

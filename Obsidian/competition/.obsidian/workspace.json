@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "5b98bf09a21978a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "254dd3d9c7922662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3dc381148105772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codeforces/构造 打表/1200.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1200"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b39ca2634788fa41",
+    "type": "split",
+    "children": [
+      {
+        "id": "2885785b965ab8da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ed7b90737517be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "17338621f7552eb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "zds",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e047d1fc9caf1e15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "185932f14b04c26c",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9335de292e95de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af797e51569d6111",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "codeforces/构造 打表/1200.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1200 的反向链接列表"
+            }
+          },
+          {
+            "id": "f4dc967fa4831bd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "codeforces/二分/medium.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "medium 的出链列表"
+            }
+          },
+          {
+            "id": "e62b6a62e200d72f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e31850bdf13c02a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "codeforces/二分/medium.md"
+              },
+              "icon": "lucide-list",
+              "title": "medium 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f3dc381148105772",
+  "lastOpenFiles": [
+    "codeforces/DS/线段树/分治.md",
+    "codeforces/构造 打表/1200.md",
+    "codeforces/交互/ggg.md",
+    "codeforces/板子/dsu.md",
+    "codeforces/DS/并查集/区间合并.md",
+    "codeforces/图论/最短路/medium.md",
+    "codeforces/板子/fg.md",
+    "codeforces/板子/seg.md",
+    "codeforces/DS/线段树/区间查询 & 区间修改.md",
+    "codeforces/DS/线段树/区间查询 & 区间合并.md",
+    "codeforces/DP/数据结构优化DP/线段树优化.md",
+    "codeforces/板子/zfc.md",
+    "codeforces/DS/Z函数/medium.md",
+    "codeforces/DS/Z函数/z.md",
+    "codeforces/板子/st.md",
+    "codeforces/板子/zds.md",
+    "codeforces/板子/kdl.md",
+    "codeforces/板子/hzsz.md",
+    "codeforces/DS/后缀数组/喵喵喵.md",
+    "codeforces/DS/后缀数组/二分查找.md",
+    "codeforces/DS/并查集/带权并查集.md",
+    "codeforces/DP/数位DP/mask.md",
+    "codeforces/cxk/调麻了.md",
+    "codeforces/组合计数/容斥.md",
+    "codeforces/组合计数/哈希表.md",
+    "codeforces/组合计数/贡献法.md",
+    "codeforces/板子",
+    "未命名",
+    "codeforces/DS/树链剖分",
+    "Pasted image 20241210212931.png",
+    "Pasted image 20241210213054.png",
+    "codeforces/图论/FunctionalGraph",
+    "codeforces/数论/枚举因子",
+    "codeforces/DS/珂朵莉树",
+    "codeforces/图论/树上问题/树链剖分",
+    "codeforces/图论/树上问题",
+    "codeforces/图论/最短路",
+    "codeforces/DS/Z函数",
+    "未命名.canvas"
+  ]
+}

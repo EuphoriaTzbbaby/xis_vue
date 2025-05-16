@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "f89c7c8b2cd0ddf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "202ac1be662cba24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598fa0b85d0bf461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/总结/2025-2-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-2-27"
+            }
+          },
+          {
+            "id": "bc017b7b2a51f609",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "7426e0f1ef4fdc93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1e464b64d587b4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8709c858522addb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18785a1c0f0c53ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37a80973ead780fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7ada1965eacd3b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d8853701f7584d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "302a88d145221b15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b0e4075dacfcfe4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "英语/总结/2025-2-27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-2-27"
+            }
+          },
+          {
+            "id": "11e83e92c2989b53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "英语/总结/2025-2-27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-2-27"
+            }
+          },
+          {
+            "id": "0611a3d9ef12c27a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c2c70f17af5cdf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "英语/总结/2025-2-27.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-2-27"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7426e0f1ef4fdc93",
+  "lastOpenFiles": [
+    "每天学习总时间/2025-2-27.md",
+    "英语/总结/2025-2-27.md",
+    "408/计算机网络/总结/2025-2-27.md",
+    "408/数据结构/总结/2025-2-27.md",
+    "408/数据结构/计划/2025-2-27.md",
+    "408/计算机网络/计划/2025-2-27.md",
+    "课表.png",
+    "数学/计划/2025-2-27.md",
+    "英语/计划/2025-2-27.md",
+    "每天学习总时间",
+    "课表.md",
+    "2025-02-26.md",
+    "Untitled.canvas",
+    "408/数据结构/总结",
+    "408/数据结构/计划",
+    "408/数据结构/复习",
+    "408/计算机组成原理/总结",
+    "408/计算机组成原理/计划",
+    "408/计算机组成原理/复习",
+    "408/计算机网络/总结",
+    "408/计算机网络/计划",
+    "408/计算机网络/复习"
+  ]
+}

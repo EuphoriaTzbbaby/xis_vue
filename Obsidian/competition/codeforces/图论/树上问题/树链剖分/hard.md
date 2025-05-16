@@ -1,0 +1,1 @@
+[2300](https://codeforces.com/contest/1843/problem/F2)

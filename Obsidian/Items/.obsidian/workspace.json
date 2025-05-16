@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "fe29c953887deda3",
+    "type": "split",
+    "children": [
+      {
+        "id": "44289118f83729a8",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "aad8c9b57a29082b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clerve_Class/fafaa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac91e622003f33c0",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "03362200112a5a35",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39aeb609535e3493",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e42aeb8140abcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c97e400439c44363",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3bca293aceebcce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e34ab278894253e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "faad9b41ce996049",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd288984f106b5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b64d6472d526637",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "clerve_Class/fafaa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1726bf4651f2075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "clerve_Class/fafaa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a28d4d6a38321a9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0f41142da0da080",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "clerve_Class/fafaa.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "03362200112a5a35",
+  "lastOpenFiles": [
+    "clerve_Class/fafaa.md",
+    "Pasted image 20241010102838.png",
+    "Pasted image 20241010102745.png",
+    "Pasted image 20241010102714.png",
+    "Pasted image 20241010102309.png",
+    "Pasted image 20241010102249.png",
+    "Pasted image 20241010102216.png",
+    "Pasted image 20241010102150.png",
+    "Pasted image 20241010102131.png",
+    "Pasted image 20241010102052.png",
+    "Pasted image 20241010102029.png",
+    "未命名",
+    "未命名.md",
+    "clerve_Class",
+    "欢迎.md"
+  ]
+}

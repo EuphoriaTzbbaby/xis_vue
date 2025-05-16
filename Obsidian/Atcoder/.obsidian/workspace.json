@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "4c4a52d655f54eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eee06589780a3ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c48638b62fff092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contests/abc371.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "458cf7205f6c88fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contests/abc371.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1bead33479e6e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "98afd62e3ba6325e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c296acc5876ad1e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93448bb6c3e889d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa182371a7a428e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d9a2c3222e52149",
+    "type": "split",
+    "children": [
+      {
+        "id": "266daa7e99e55427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e523fb74b04b1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Contests/abc371.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f40cf47ca69a1cf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Contests/abc371.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5c898b7b2b8ac2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "227f2340fbc9c8b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contests/abc371.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c296acc5876ad1e4",
+  "lastOpenFiles": [
+    "Contests/abc371.md",
+    "欢迎.md",
+    "未命名.md",
+    "Contests",
+    "创建链接.md"
+  ]
+}
